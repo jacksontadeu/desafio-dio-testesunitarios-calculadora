@@ -1,0 +1,14 @@
+D:\DEV\DIO\csharp\DesafioCalculadora\DesafioCalculadora\bin\Debug\net6.0\DesafioCalculadora.exe
+D:\DEV\DIO\csharp\DesafioCalculadora\DesafioCalculadora\bin\Debug\net6.0\DesafioCalculadora.deps.json
+D:\DEV\DIO\csharp\DesafioCalculadora\DesafioCalculadora\bin\Debug\net6.0\DesafioCalculadora.runtimeconfig.json
+D:\DEV\DIO\csharp\DesafioCalculadora\DesafioCalculadora\bin\Debug\net6.0\DesafioCalculadora.dll
+D:\DEV\DIO\csharp\DesafioCalculadora\DesafioCalculadora\bin\Debug\net6.0\DesafioCalculadora.pdb
+D:\DEV\DIO\csharp\DesafioCalculadora\DesafioCalculadora\obj\Debug\net6.0\DesafioCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\DIO\csharp\DesafioCalculadora\DesafioCalculadora\obj\Debug\net6.0\DesafioCalculadora.AssemblyInfoInputs.cache
+D:\DEV\DIO\csharp\DesafioCalculadora\DesafioCalculadora\obj\Debug\net6.0\DesafioCalculadora.AssemblyInfo.cs
+D:\DEV\DIO\csharp\DesafioCalculadora\DesafioCalculadora\obj\Debug\net6.0\DesafioCalculadora.csproj.CoreCompileInputs.cache
+D:\DEV\DIO\csharp\DesafioCalculadora\DesafioCalculadora\obj\Debug\net6.0\DesafioCalculadora.dll
+D:\DEV\DIO\csharp\DesafioCalculadora\DesafioCalculadora\obj\Debug\net6.0\refint\DesafioCalculadora.dll
+D:\DEV\DIO\csharp\DesafioCalculadora\DesafioCalculadora\obj\Debug\net6.0\DesafioCalculadora.pdb
+D:\DEV\DIO\csharp\DesafioCalculadora\DesafioCalculadora\obj\Debug\net6.0\DesafioCalculadora.genruntimeconfig.cache
+D:\DEV\DIO\csharp\DesafioCalculadora\DesafioCalculadora\obj\Debug\net6.0\ref\DesafioCalculadora.dll
